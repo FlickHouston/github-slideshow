@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"I hate quotes" - Ralph Waldo Emerson
 Use the left arrow to go back!
